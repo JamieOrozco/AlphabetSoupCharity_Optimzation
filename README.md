@@ -20,3 +20,6 @@ IS_SUCCESSFUL—Was the money used effectively
 ### Deliverable 2: Compile, Train, and Evaluate the Model
 ### Deliverable 3: Optimize the Model
 ### Deliverable 4: Neural Network Model Conclusion
+
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/95591222/164356885-4bc99e9c-adf1-4048-ae06-6bf847c9578e.png">
+
