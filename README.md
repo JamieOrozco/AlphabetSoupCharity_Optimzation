@@ -31,7 +31,7 @@ Data Preprocessing
 * What variable(s) are considered the target(s) for your model?
      * The target is the IS_SUCCESSFUL field. 
 * What variable(s) are considered to be the features for your model?
-    *   * APPLICATION_TYPE
+     * APPLICATION_TYPE
    
       * AFFILIATION
    
