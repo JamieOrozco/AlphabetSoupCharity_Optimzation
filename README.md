@@ -27,8 +27,9 @@ The features in the provided dataset to help Beks create a binary classifier tha
 
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/95591222/164356885-4bc99e9c-adf1-4048-ae06-6bf847c9578e.png">
 
-* Data Preprocessing
-What variable(s) are considered the target(s) for your model?
+Data Preprocessing
+* What variable(s) are considered the target(s) for your model?
+  ** The target is the IS_SUCCESSFUL field. 
 What variable(s) are considered to be the features for your model?
 What variable(s) are neither targets nor features, and should be removed from the input data?
 * Compiling, Training, and Evaluating the Model
