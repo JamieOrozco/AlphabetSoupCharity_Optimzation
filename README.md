@@ -30,7 +30,24 @@ The features in the provided dataset to help Beks create a binary classifier tha
 Data Preprocessing
 * What variable(s) are considered the target(s) for your model?
      * The target is the IS_SUCCESSFUL field. 
-What variable(s) are considered to be the features for your model?
+* What variable(s) are considered to be the features for your model?
+    *   * APPLICATION_TYPE
+   
+      * AFFILIATION
+   
+      * CLASSIFICATION
+   
+      *	USE_CASE
+   
+      *	ORGANIZATION
+   
+      *	STATUS
+   
+      *	INCOME_AMT
+   
+      *	SPECIAL_CONSIDERATIONS
+   
+      *	ASK_AMT
 What variable(s) are neither targets nor features, and should be removed from the input data?
 * Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
